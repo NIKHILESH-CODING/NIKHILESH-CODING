@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning dsa in py
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ?
-- Nikhileshpro2131@gmail.com
+- Nikhileshcoding@gmail.com
 
 
 <!---
