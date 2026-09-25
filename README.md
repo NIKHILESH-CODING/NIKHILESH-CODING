@@ -1,127 +1,108 @@
 # Hi, I'm Nikhilesh 👋
 
-### Aspiring Software Engineer | Python • Java • Web Development | BCA Student
+### BCA Student | Aspiring Software Engineer | Python • Java • Web Development
 
-I'm a **BCA student at NIILM University** focused on developing strong foundations in **software engineering, programming, data structures & algorithms, and web development**.
+I'm a **BCA student at NIILM University** interested in software development, problem solving, and building practical applications.
 
-I'm currently strengthening my **Python and Java** skills, practicing problem solving, and building practical projects while exploring **SQL, APIs, Git/GitHub, Data Science, and Artificial Intelligence**.
+I'm currently strengthening my skills in **Python, Java, Data Structures & Algorithms (DSA), SQL, MySQL, HTML, CSS, and JavaScript**. I'm also exploring **APIs, Data Science, and Artificial Intelligence** through coursework and hands-on practice.
 
-My goal is to become a strong software engineer by combining solid fundamentals with practical development experience.
+I use GitHub to document my learning, practice coding, and build projects as I work toward software engineering internships and entry-level opportunities.
 
 ---
 
 ## About Me
 
-* 🎓 BCA Student at **NIILM University**
-* 💻 Learning and building with **Python, Java, HTML, CSS, and JavaScript**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🗄️ Learning **SQL and database fundamentals**
-* 🔧 Using **Git and GitHub** for version control and project development
-* 🤖 Exploring **Data Science & Artificial Intelligence**
-* 🌐 Building web projects and learning how software systems are developed
-* 🎯 Preparing for **Software Engineering internships and entry-level opportunities**
+- 🎓 **BCA Student** — NIILM University | Expected Graduation: 2027
+- 💻 Learning and practicing **Python, Java, JavaScript, HTML, and CSS**
+- 🧠 Practicing **Data Structures & Algorithms** and problem solving
+- 🗄️ Building knowledge of **SQL and MySQL**
+- 🔧 Using **Git, GitHub, and VS Code**
+- 🌐 Learning web development and application development
+- 🤖 Exploring **Data Science and Artificial Intelligence**
+- 🎯 Working toward **Software Engineering internships and entry-level roles**
 
 ---
 
 ## Technical Skills
 
-### Languages
-
+### Programming Languages
 `Python` `Java` `JavaScript`
 
 ### Web Development
-
-`HTML` `CSS` `JavaScript`
+`HTML5` `CSS3` `JavaScript`
 
 ### Database
+`SQL` `MySQL`
 
-`MySQL` `SQL`
-
-### Core Concepts
-
-`Data Structures & Algorithms` `OOP` `Problem Solving`
+### Computer Science
+`Data Structures & Algorithms` `Object-Oriented Programming` `Problem Solving`
 
 ### Tools
-
 `Git` `GitHub` `VS Code`
+
+### Currently Learning
+`APIs` `Data Science` `Artificial Intelligence`
 
 ---
 
 ## Current Learning Focus
 
-```text
-Programming Fundamentals
-        ↓
-Data Structures & Algorithms
-        ↓
-Object-Oriented Programming
-        ↓
-SQL & Database Fundamentals
-        ↓
-Backend Development
-        ↓
-Full-Stack Development
-        ↓
-Software Engineering Practices
-```
+I'm focusing on building strong fundamentals and applying them through practical work.
 
-I'm focusing on understanding **fundamentals and building projects**, rather than simply collecting technologies.
+**Programming Fundamentals → DSA → OOP → SQL & Databases → Web Development → APIs → Software Engineering Practices**
 
 ---
 
-## Projects
+## Projects & Practice
 
-I'm currently building and improving practical projects as part of my software engineering journey.
-
-### 🌐 Restaurant Website
-
+### Restaurant Website
 **HTML • CSS • JavaScript**
 
-A responsive restaurant website created to strengthen frontend fundamentals, structured page design, forms, navigation, multimedia, and user interaction.
+A frontend project for practicing website structure, navigation, forms, images, multimedia, responsive layout, and basic JavaScript interactions.
 
-### 🐍 Python Projects
-
+### Python Practice
 **Python**
 
-Practical applications focused on programming fundamentals, problem solving, data handling, and writing clean, maintainable code.
+Small applications and coding exercises focused on Python fundamentals, problem solving, data handling, and application development.
 
-### ☕ Java + MySQL Projects
+### Java & MySQL Practice
+**Java • OOP • SQL • MySQL**
 
-**Java • OOP • MySQL**
+Practice work focused on Java fundamentals, object-oriented programming, SQL queries, database concepts, CRUD operations, and database connectivity.
 
-Applications designed to strengthen Java fundamentals, object-oriented programming, database connectivity, SQL, and CRUD operations.
-
-### 🧠 DSA Practice
-
+### Data Structures & Algorithms
 **Python • Java**
 
-A growing collection of data-structure implementations and problem-solving practice.
+Ongoing practice covering fundamental data structures, algorithms, and problem-solving techniques.
 
-> Projects will be added here as they are completed and documented.
+> I update this section as projects are completed, improved, and documented on GitHub.
 
 ---
 
-## Certifications
+## Certifications & Courses
 
-* **Java with Data Structures & Algorithms** — Apna College
-* **Python Bootcamp** — CodeWithHarry
-* **Web Development** — Apna College
-* **Certification in Data Science & Artificial Intelligence** — E&ICT Academy, IIT Roorkee
-* **Artificial Intelligence Program** — B10x
+- **Java with Data Structures & Algorithms** — Apna College
+- **Python Bootcamp** — CodeWithHarry
+- **Web Development** — Apna College
+- **Certification in Data Science & Artificial Intelligence** — E&ICT Academy, IIT Roorkee
+- **Artificial Intelligence Program** — B10x
 
 ---
 
 ## Connect With Me
 
-**LinkedIn**
-[linkedin.com/in/nikhilesh011](https://www.linkedin.com/in/nikhilesh011)
-
-**LeetCode**
-[leetcode.com/u/NIKHILESH-CODING](https://leetcode.com/u/NIKHILESH-CODING/)
-
-**Portfolio**
-[codewithnikhilesh.netlify.app](https://codewithnikhilesh.netlify.app/)
+- **LinkedIn:** [linkedin.com/in/nikhilesh011](https://www.linkedin.com/in/nikhilesh011)
+- **LeetCode:** [leetcode.com/u/NIKHILESH-CODING](https://leetcode.com/u/NIKHILESH-CODING/)
+- **Portfolio:** [codewithnikhilesh.netlify.app](https://codewithnikhilesh.netlify.app/)
 
 ---
 
-### Building fundamentals → building projects → becoming a Software Engineer. 🚀
+## GitHub Activity
+
+![Nikhilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NIKHILESH-CODING&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHILESH-CODING&layout=compact&hide_border=true)
+
+---
+
+### Learning, building, and improving one project at a time.
