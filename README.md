@@ -6,7 +6,7 @@ I'm a **BCA student at NIILM University** focused on building strong software de
 
 I'm currently strengthening **Python, Java, JavaScript, HTML, CSS, DSA, SQL, and MySQL**, while exploring **APIs, Data Science, and Artificial Intelligence**.
 
-This profile documents my learning journey, practice work, web development experiments, and projects as I prepare for software engineering internships and entry-level opportunities.
+This profile reflects my learning journey, coding practice, and web-development work as I prepare for software engineering internships and entry-level opportunities.
 
 ---
 
@@ -17,7 +17,7 @@ This profile documents my learning journey, practice work, web development exper
 - 🧠 **Data Structures & Algorithms, OOP, Problem Solving**
 - 🗄️ **SQL & MySQL**
 - 🔧 **Git, GitHub, VS Code**
-- 🌐 **Web Development & APIs**
+- 🌐 **Web Development**
 - 🤖 Exploring **Data Science & Artificial Intelligence**
 - 🎯 Preparing for **Software Engineering internships and entry-level roles**
 
@@ -28,7 +28,7 @@ This profile documents my learning journey, practice work, web development exper
 | Area | Skills |
 |---|---|
 | Programming | Python, Java, JavaScript |
-| Web | HTML5, CSS3, JavaScript |
+| Web Development | HTML5, CSS3, JavaScript |
 | Database | SQL, MySQL |
 | Computer Science | DSA, OOP, Problem Solving |
 | Tools | Git, GitHub, VS Code |
@@ -38,18 +38,17 @@ This profile documents my learning journey, practice work, web development exper
 
 ## Learning Focus
 
-I am following a fundamentals-first approach:
+I follow a fundamentals-first approach:
 
 **Programming Fundamentals → DSA → OOP → SQL & Databases → Web Development → APIs → Software Engineering Practices**
 
-The goal is to build understanding through consistent practice rather than simply collecting technologies.
+My focus is on understanding concepts, practicing consistently, and gradually building practical projects.
 
 ---
 
-## Work & Practice
+## Web Development Practice
 
-### Web Development
-This repository contains HTML/CSS practice and web-development work, including:
+This repository contains my current HTML/CSS and web-development practice:
 
 - [Nikhilesh.html](./Nikhilesh.html)
 - [Nikhilesh.css](./Nikhilesh.css)
@@ -59,13 +58,16 @@ This repository contains HTML/CSS practice and web-development work, including:
 - [Events page](./events.html)
 - [YouTube page](./youtube.html)
 
-### Programming Practice
-- **Python:** fundamentals, problem solving, and small practice programs
+> These files represent learning and practice work. I will add completed projects here as I build, test, and document them.
+
+---
+
+## Programming Practice
+
+- **Python:** fundamentals, problem solving, and practice programs
 - **Java:** fundamentals, OOP, DSA, and database-related practice
 - **SQL/MySQL:** queries, database concepts, and CRUD practice
 - **DSA:** ongoing problem-solving practice in Python and Java
-
-> I only list work here as completed when it is actually built, tested, and documented.
 
 ---
 
@@ -79,21 +81,12 @@ This repository contains HTML/CSS practice and web-development work, including:
 
 ---
 
-## GitHub Activity
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NIKHILESH-CODING&show_icons=true&hide_border=true&cache_seconds=86400)](https://github.com/NIKHILESH-CODING)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHILESH-CODING&layout=compact&hide_border=true&cache_seconds=86400)](https://github.com/NIKHILESH-CODING)
-
-For a complete list of repositories and activity, visit my [GitHub profile](https://github.com/NIKHILESH-CODING).
-
----
-
 ## Connect
 
 - **LinkedIn:** [linkedin.com/in/nikhilesh011](https://www.linkedin.com/in/nikhilesh011)
 - **LeetCode:** [leetcode.com/u/NIKHILESH-CODING](https://leetcode.com/u/NIKHILESH-CODING/)
 - **Portfolio:** [codewithnikhilesh.netlify.app](https://codewithnikhilesh.netlify.app/)
+- **GitHub:** [github.com/NIKHILESH-CODING](https://github.com/NIKHILESH-CODING)
 
 ---
 
