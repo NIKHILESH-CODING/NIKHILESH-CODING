@@ -99,9 +99,13 @@ Ongoing practice covering fundamental data structures, algorithms, and problem-s
 
 ## GitHub Activity
 
-![Nikhilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NIKHILESH-CODING&show_icons=true&hide_border=true)
+Click either card to open my GitHub profile.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHILESH-CODING&layout=compact&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NIKHILESH-CODING&show_icons=true&hide_border=true&cache_seconds=86400)](https://github.com/NIKHILESH-CODING)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHILESH-CODING&layout=compact&hide_border=true&cache_seconds=86400)](https://github.com/NIKHILESH-CODING)
+
+**GitHub Profile:** [github.com/NIKHILESH-CODING](https://github.com/NIKHILESH-CODING)
 
 ---
 
